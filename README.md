@@ -28,3 +28,11 @@
 * [如何写出一个好故事](3-2.md)
 * [控制文章篇幅 -- PPT 法](3-3.md)
 * [一次只写一个概念](3-4.md)
+
+## 本書方法親自實證
+
+* 閃電式開發 https://www.books.com.tw/products/0010811807 一個月寫完
+* 打造超人大腦 https://www.books.com.tw/products/0010831027　一週寫完
+* 遠距工作這樣做 https://www.books.com.tw/products/0010870648 一天寫完初稿 44000字
+* 打造超人思維 https://www.books.com.tw/products/0010878965 一週寫完 70000 字
+* 打造超人學習 https://github.com/xdite/learn-hack　三天寫完初稿 60000 字
