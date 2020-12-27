@@ -35,4 +35,4 @@
 * 打造超人大腦 https://www.books.com.tw/products/0010831027  一週寫完
 * 遠距工作這樣做 https://www.books.com.tw/products/0010870648 一天寫完初稿 44000字
 * 打造超人思維 https://www.books.com.tw/products/0010878965 一週寫完 70000 字
-* 打造超人學習 https://github.com/xdite/learn-hack　三天寫完初稿 60000 字
+* 打造超人學習 https://github.com/xdite/learn-hack 三天寫完初稿 60000 字
